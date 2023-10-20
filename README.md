@@ -1,4 +1,4 @@
-### Full Stack Developer from Buenos Aires, AR. Currently living in Bariloche.  
+# Full Stack Developer from Buenos Aires, AR. Currently living in Bariloche.  
   
 <br/>  
 
