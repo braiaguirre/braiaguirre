@@ -1,4 +1,4 @@
-Full Stack Developer from Buenos Aires, AR. Currently living in Bariloche.  
+Full Stack Developer from Buenos Aires, Argentina. Currently living in Bariloche.
   
 <br/>  
 
@@ -32,7 +32,7 @@ Full Stack Developer from Buenos Aires, AR. Currently living in Bariloche.
 
 <br/>  
 
-## Find me here:
+### Find me here:
 <a href="https://linkedin.com/in/brian-aguirre-1947a3281" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
