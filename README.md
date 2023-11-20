@@ -6,6 +6,8 @@
 Full stack developer with a knack for creating innovative applications.
 I thrive in fast-paced environments and enjoy collaborating to bring ideas to life. When not coding, I may be found trekking around Bariloche, Argentina.
 
+<br/>  
+
 (ESP)
 Desarrollador full stack con ganas de crear aplicaciones innovadoras.
 Me gusta trabajar en entornos con buen ritmo y disfruto colaborar para llevar a cabo los proyectos. Cuando no estoy codeando, quizás me encuentren haciendo trekking en Bariloche.
