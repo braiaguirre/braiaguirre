@@ -1,5 +1,7 @@
 ### Full Stack Developer
-From Buenos Aires, Argentina. Currently living in Bariloche.
+Full stack developer with a knack for creating innovative applications.
+
+I thrive in fast-paced environments and enjoy collaborating to bring ideas to life. When not coding, I may be found trekking around Bariloche, Argentina.
   
 <br/>  
 
@@ -40,3 +42,6 @@ From Buenos Aires, Argentina. Currently living in Bariloche.
 <a href="https://github.com/braiaguirre" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+
+### Or email me:
+aguirre.brianalexis94@gmail.com
