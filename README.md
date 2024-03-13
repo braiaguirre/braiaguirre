@@ -2,18 +2,6 @@
 
 🙋‍♂️ 
 
-(ENG)
-Full stack developer with a knack for creating innovative applications.
-I thrive in fast-paced environments and enjoy collaborating to bring ideas to life. When not coding, I may be found trekking around Bariloche, Argentina.
-
-<br/>  
-
-(ESP)
-Desarrollador full stack con ganas de crear aplicaciones innovadoras.
-Me gusta trabajar en entornos con buen ritmo y disfruto colaborar para llevar a cabo los proyectos. Cuando no estoy codeando, quizás me encuentren haciendo trekking en Bariloche.
-  
-<br/>  
-
 ### Things I could use or code with:
 <div align="left">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
